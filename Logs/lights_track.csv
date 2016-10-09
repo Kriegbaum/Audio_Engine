@@ -1,0 +1,308 @@
+0.02902757619738752,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 82, 'hue': 6453, 'bri': 116, 'sat': 255}",arc,Unmodified
+0.22863945578231293,8,"{'transitiontime': 1, 'hue': 75, 'bri': 3, 'sat': 158}",beat,Unmodified
+3.8741723356009072,14,"{'transitiontime': 1, 'hue': 168, 'bri': 254, 'sat': 179}",beat,Unmodified
+5.6156689342403627,8,"{'transitiontime': 1, 'hue': 106, 'bri': 195, 'sat': 163}",beat,Unmodified
+6.4748072562358274,15,"{'transitiontime': 1, 'hue': 89, 'bri': 179, 'sat': 249}",beat,Unmodified
+6.8927664399092974,8,"{'transitiontime': 1, 'hue': 91, 'bri': 7, 'sat': 130}",beat,Unmodified
+7.3223356009070297,15,"{'transitiontime': 1, 'hue': 139, 'bri': 232, 'sat': 206}",beat,Unmodified
+7.7402947845804988,8,"{'transitiontime': 1, 'hue': 87, 'bri': 0, 'sat': 152}",beat,Unmodified
+8.1698639455782303,7,"{'transitiontime': 1, 'hue': 96, 'bri': 189, 'sat': 168}",beat,Unmodified
+8.30188679245283,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 32, 'hue': 8967, 'bri': 111, 'sat': 255}",arc,Safe
+9.4353514739229016,8,"{'transitiontime': 1, 'hue': 105, 'bri': 17, 'sat': 192}",beat,Unmodified
+9.8649206349206349,14,"{'transitiontime': 1, 'hue': 106, 'bri': 194, 'sat': 183}",beat,Unmodified
+11.142018140589569,10,"{'transitiontime': 1, 'hue': 88, 'bri': 1, 'sat': 182}",beat,Unmodified
+11.561683599419448,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 44, 'hue': 3331, 'bri': 128, 'sat': 255}",arc,Unmodified
+13.731043083900227,8,"{'transitiontime': 1, 'hue': 90, 'bri': 2, 'sat': 190}",beat,Unmodified
+14.160612244897958,8,"{'transitiontime': 1, 'hue': 108, 'bri': 198, 'sat': 137}",beat,Unmodified
+14.601791383219954,15,"{'transitiontime': 1, 'hue': 91, 'bri': 1, 'sat': 187}",beat,Unmodified
+15.031360544217687,8,"{'transitiontime': 1, 'hue': 101, 'bri': 192, 'sat': 231}",beat,Unmodified
+15.460929705215419,15,"{'transitiontime': 1, 'hue': 104, 'bri': 18, 'sat': 253}",beat,Unmodified
+15.878888888888888,7,"{'transitiontime': 1, 'hue': 97, 'bri': 188, 'sat': 239}",beat,Unmodified
+16.020319303338173,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 147, 'hue': 15895, 'bri': 104, 'sat': 255}",arc,Safe
+16.749637188208617,12,"{'transitiontime': 1, 'hue': 113, 'bri': 201, 'sat': 149}",beat,Unmodified
+17.167596371882084,7,"{'transitiontime': 1, 'hue': 89, 'bri': 2, 'sat': 251}",beat,Unmodified
+17.585555555555555,12,"{'transitiontime': 1, 'hue': 99, 'bri': 191, 'sat': 208}",beat,Unmodified
+18.65312046444122,11,"{'transitiontime': 10, 'hue': 32396, 'bri': 229, 'sat': 255}",low,Unmodified
+19.53846153846154,11,"{'transitiontime': 19, 'hue': 26997, 'bri': 0, 'sat': 255}",high,Unmodified
+20.162970521541951,11,"{'transitiontime': 1, 'hue': 84, 'bri': 178, 'sat': 237}",beat,Unmodified
+20.604149659863946,10,"{'transitiontime': 1, 'hue': 114, 'bri': 25, 'sat': 171}",beat,Unmodified
+21.022108843537413,14,"{'transitiontime': 1, 'hue': 146, 'bri': 235, 'sat': 237}",beat,Unmodified
+21.946298984034833,12,"{'transitiontime': 60, 'hue': 32396, 'bri': 229, 'sat': 255}",low,Safe
+23.158344671201814,11,"{'transitiontime': 1, 'hue': 89, 'bri': 0, 'sat': 154}",beat,Unmodified
+23.587913832199547,11,"{'transitiontime': 1, 'hue': 96, 'bri': 184, 'sat': 178}",beat,Unmodified
+24.005873015873014,8,"{'transitiontime': 1, 'hue': 97, 'bri': 9, 'sat': 132}",beat,Unmodified
+24.435442176870747,7,"{'transitiontime': 1, 'hue': 114, 'bri': 203, 'sat': 208}",beat,Unmodified
+26.606507936507935,15,"{'transitiontime': 1, 'hue': 86, 'bri': 0, 'sat': 141}",beat,Unmodified
+27.02322206095791,12,"{'transitiontime': 13, 'hue': 26997, 'bri': 0, 'sat': 255}",high,Unmodified
+27.454036281179139,14,"{'transitiontime': 1, 'hue': 88, 'bri': 1, 'sat': 249}",beat,Unmodified
+27.871995464852606,15,"{'transitiontime': 1, 'hue': 115, 'bri': 207, 'sat': 153}",beat,Unmodified
+28.301564625850339,7,"{'transitiontime': 1, 'hue': 104, 'bri': 14, 'sat': 167}",beat,Unmodified
+28.663280116110304,7,"{'transitiontime': 48, 'hue': 32396, 'bri': 229, 'sat': 255}",low,Safe
+30.809869375907112,"[8, 10, 11, 12, 14, 15]","{'transitiontime': 60, 'hue': 9668, 'bri': 123, 'sat': 255}",arc,Safe
+32.167687074829935,14,"{'transitiontime': 1, 'hue': 92, 'bri': 187, 'sat': 172}",beat,Unmodified
+32.608866213151927,15,"{'transitiontime': 1, 'hue': 98, 'bri': 9, 'sat': 209}",beat,Unmodified
+32.716981132075475,7,"{'transitiontime': 19, 'hue': 26997, 'bri': 0, 'sat': 255}",high,Unmodified
+33.456394557823131,14,"{'transitiontime': 1, 'hue': 95, 'bri': 9, 'sat': 166}",beat,Unmodified
+33.885963718820868,15,"{'transitiontime': 1, 'hue': 88, 'bri': 179, 'sat': 176}",beat,Unmodified
+35.1944847605225,15,"{'transitiontime': 22, 'hue': 32396, 'bri': 229, 'sat': 255}",low,Unmodified
+35.569410430839007,14,"{'transitiontime': 1, 'hue': 91, 'bri': 183, 'sat': 245}",beat,Unmodified
+36.010589569160999,8,"{'transitiontime': 1, 'hue': 91, 'bri': 0, 'sat': 172}",beat,Unmodified
+36.866473149492016,"[7, 8, 10, 11, 12, 14]","{'transitiontime': 119, 'hue': 13519, 'bri': 120, 'sat': 255}",arc,Safe
+37.310907029478464,7,"{'transitiontime': 1, 'hue': 99, 'bri': 189, 'sat': 215}",beat,Unmodified
+37.728866213151932,15,"{'transitiontime': 1, 'hue': 87, 'bri': 0, 'sat': 137}",beat,Unmodified
+38.1422351233672,8,"{'transitiontime': 27, 'hue': 32396, 'bri': 229, 'sat': 255}",low,Safe
+39.017573696145128,15,"{'transitiontime': 1, 'hue': 90, 'bri': 184, 'sat': 158}",beat,Unmodified
+40.42960812772134,8,"{'transitiontime': 3, 'hue': 26997, 'bri': 0, 'sat': 255}",high,Unmodified
+40.83744557329463,14,"{'transitiontime': 33, 'hue': 32396, 'bri': 229, 'sat': 255}",low,Safe
+41.177029478458053,7,"{'transitiontime': 1, 'hue': 99, 'bri': 9, 'sat': 244}",beat,Unmodified
+41.606598639455783,15,"{'transitiontime': 1, 'hue': 100, 'bri': 189, 'sat': 194}",beat,Unmodified
+42.024557823129257,8,"{'transitiontime': 1, 'hue': 98, 'bri': 7, 'sat': 134}",beat,Unmodified
+43.61248185776488,14,"{'transitiontime': 15, 'hue': 26997, 'bri': 0, 'sat': 255}",high,Unmodified
+44.17240362811792,10,"{'transitiontime': 1, 'hue': 94, 'bri': 187, 'sat': 169}",beat,Unmodified
+45.019931972789117,10,"{'transitiontime': 1, 'hue': 102, 'bri': 193, 'sat': 216}",beat,Unmodified
+45.502177068214806,15,"{'transitiontime': 12, 'hue': 32396, 'bri': 229, 'sat': 255}",low,Safe
+45.879070294784583,10,"{'transitiontime': 1, 'hue': 97, 'bri': 190, 'sat': 176}",beat,Unmodified
+46.320249433106582,14,"{'transitiontime': 1, 'hue': 88, 'bri': 1, 'sat': 255}",beat,Unmodified
+46.51088534107402,15,"{'transitiontime': 20, 'hue': 26997, 'bri': 0, 'sat': 255}",high,Unmodified
+46.749818594104312,15,"{'transitiontime': 1, 'hue': 89, 'bri': 179, 'sat': 171}",beat,Unmodified
+48.456485260770975,8,"{'transitiontime': 1, 'hue': 104, 'bri': 195, 'sat': 239}",beat,Unmodified
+48.92017416545718,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 51, 'hue': 12216, 'bri': 127, 'sat': 255}",arc,Safe
+49.087082728592165,8,"{'transitiontime': 26, 'hue': 32396, 'bri': 229, 'sat': 255}",low,Safe
+49.745192743764179,14,"{'transitiontime': 1, 'hue': 91, 'bri': 2, 'sat': 191}",beat,Unmodified
+51.3033381712627,8,"{'transitiontime': 2, 'hue': 26998, 'bri': 0, 'sat': 255}",high,Unmodified
+51.66328011611031,7,"{'transitiontime': 31, 'hue': 32397, 'bri': 229, 'sat': 255}",low,Safe
+52.717346938775513,12,"{'transitiontime': 1, 'hue': 113, 'bri': 205, 'sat': 184}",beat,Unmodified
+54.13642960812772,"[8, 10, 11, 12, 14, 15]","{'transitiontime': 21, 'hue': 12443, 'bri': 127, 'sat': 255}",arc,Safe
+54.447233560090709,7,"{'transitiontime': 1, 'hue': 100, 'bri': 188, 'sat': 179}",beat,Unmodified
+54.865192743764176,8,"{'transitiontime': 1, 'hue': 86, 'bri': 0, 'sat': 224}",beat,Unmodified
+55.283151927437643,15,"{'transitiontime': 1, 'hue': 85, 'bri': 177, 'sat': 176}",beat,Unmodified
+56.31204644412192,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 39, 'hue': 11345, 'bri': 132, 'sat': 255}",arc,Unmodified
+57.883786848072567,8,"{'transitiontime': 1, 'hue': 107, 'bri': 198, 'sat': 160}",beat,Unmodified
+58.47895500725689,12,"{'transitiontime': 40, 'hue': 32397, 'bri': 229, 'sat': 255}",low,Safe
+60.23512336719884,"[7, 8, 10, 11, 14, 15]","{'transitiontime': 32, 'hue': 12470, 'bri': 131, 'sat': 255}",arc,Unmodified
+61.320340136054426,10,"{'transitiontime': 1, 'hue': 96, 'bri': 189, 'sat': 250}",beat,Unmodified
+61.847605224963715,12,"{'transitiontime': 27, 'hue': 26998, 'bri': 0, 'sat': 255}",high,Unmodified
+62.144648526077098,8,"{'transitiontime': 1, 'hue': 84, 'bri': 178, 'sat': 172}",beat,Unmodified
+63.46589259796807,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 34, 'hue': 10804, 'bri': 137, 'sat': 255}",arc,Unmodified
+64.745283446712023,14,"{'transitiontime': 1, 'hue': 88, 'bri': 178, 'sat': 238}",beat,Unmodified
+65.26705370101597,7,"{'transitiontime': 15, 'hue': 32397, 'bri': 229, 'sat': 255}",low,Safe
+66.54716981132076,7,"{'transitiontime': 14, 'hue': 26998, 'bri': 0, 'sat': 255}",high,Unmodified
+66.89985486211901,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 41, 'hue': 13376, 'bri': 133, 'sat': 255}",arc,Unmodified
+68.30043541364296,7,"{'transitiontime': 28, 'hue': 32398, 'bri': 229, 'sat': 255}",low,Unmodified
+69.006145124716554,10,"{'transitiontime': 1, 'hue': 87, 'bri': 179, 'sat': 235}",beat,Unmodified
+69.876893424036282,10,"{'transitiontime': 1, 'hue': 89, 'bri': 179, 'sat': 153}",beat,Unmodified
+70.306462585034012,10,"{'transitiontime': 1, 'hue': 86, 'bri': 0, 'sat': 195}",beat,Unmodified
+70.67634252539914,7,"{'transitiontime': 17, 'hue': 26999, 'bri': 0, 'sat': 255}",high,Unmodified
+71.09143686502178,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 31, 'hue': 12502, 'bri': 137, 'sat': 255}",arc,Safe
+71.583560090702946,8,"{'transitiontime': 1, 'hue': 82, 'bri': 178, 'sat': 221}",beat,Unmodified
+72.465918367346944,14,"{'transitiontime': 1, 'hue': 106, 'bri': 198, 'sat': 194}",beat,Unmodified
+72.8200290275762,7,"{'transitiontime': 16, 'hue': 32398, 'bri': 229, 'sat': 255}",low,Unmodified
+73.325056689342404,10,"{'transitiontime': 1, 'hue': 93, 'bri': 182, 'sat': 225}",beat,Unmodified
+74.22060957910014,7,"{'transitiontime': 12, 'hue': 26999, 'bri': 0, 'sat': 255}",high,Unmodified
+74.31204644412192,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 69, 'hue': 13910, 'bri': 138, 'sat': 255}",arc,Safe
+75.80696661828738,12,"{'transitiontime': 37, 'hue': 32398, 'bri': 229, 'sat': 255}",low,Safe
+76.726780045351475,14,"{'transitiontime': 1, 'hue': 98, 'bri': 195, 'sat': 136}",beat,Unmodified
+78.886235827664407,10,"{'transitiontime': 1, 'hue': 89, 'bri': 2, 'sat': 186}",beat,Safe
+79.315804988662137,10,"{'transitiontime': 1, 'hue': 89, 'bri': 179, 'sat': 145}",beat,Unmodified
+79.745374149659867,14,"{'transitiontime': 1, 'hue': 93, 'bri': 5, 'sat': 223}",beat,Unmodified
+80.163333333333341,10,"{'transitiontime': 1, 'hue': 92, 'bri': 185, 'sat': 231}",beat,Unmodified
+81.03408163265307,10,"{'transitiontime': 1, 'hue': 109, 'bri': 200, 'sat': 206}",beat,Unmodified
+81.22641509433963,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 101, 'hue': 8535, 'bri': 157, 'sat': 255}",arc,Safe
+82.23657474600871,11,"{'transitiontime': 33, 'hue': 32400, 'bri': 229, 'sat': 255}",low,Unmodified
+82.740748299319733,8,"{'transitiontime': 1, 'hue': 92, 'bri': 182, 'sat': 247}",beat,Unmodified
+84.041065759637192,8,"{'transitiontime': 1, 'hue': 95, 'bri': 6, 'sat': 236}",beat,Unmodified
+84.470634920634922,7,"{'transitiontime': 1, 'hue': 109, 'bri': 199, 'sat': 183}",beat,Unmodified
+85.05515239477504,11,"{'transitiontime': 16, 'hue': 27000, 'bri': 0, 'sat': 255}",high,Unmodified
+85.329773242630395,12,"{'transitiontime': 1, 'hue': 89, 'bri': 180, 'sat': 241}",beat,Unmodified
+85.747732426303855,11,"{'transitiontime': 1, 'hue': 117, 'bri': 28, 'sat': 184}",beat,Unmodified
+86.15408163265306,12,"{'transitiontime': 1, 'hue': 128, 'bri': 226, 'sat': 231}",beat,Unmodified
+87.1044992743106,11,"{'transitiontime': 5, 'hue': 32400, 'bri': 229, 'sat': 255}",low,Safe
+87.59071117561683,11,"{'transitiontime': 15, 'hue': 27000, 'bri': 0, 'sat': 255}",high,Unmodified
+89.50943396226415,12,"{'transitiontime': 40, 'hue': 32401, 'bri': 229, 'sat': 255}",low,Safe
+90.449773242630386,11,"{'transitiontime': 1, 'hue': 97, 'bri': 191, 'sat': 152}",beat,Unmodified
+91.4310595065312,"[7, 8, 10, 11, 14, 15]","{'transitiontime': 62, 'hue': 13524, 'bri': 148, 'sat': 255}",arc,Safe
+92.88679245283019,12,"{'transitiontime': 25, 'hue': 27001, 'bri': 0, 'sat': 255}",high,Unmodified
+93.027188208616778,14,"{'transitiontime': 1, 'hue': 116, 'bri': 207, 'sat': 149}",beat,Unmodified
+93.445147392290252,14,"{'transitiontime': 1, 'hue': 85, 'bri': 0, 'sat': 149}",beat,Unmodified
+93.886326530612251,10,"{'transitiontime': 1, 'hue': 90, 'bri': 182, 'sat': 195}",beat,Unmodified
+94.315895691609981,10,"{'transitiontime': 1, 'hue': 91, 'bri': 1, 'sat': 169}",beat,Unmodified
+94.733854875283455,11,"{'transitiontime': 1, 'hue': 132, 'bri': 221, 'sat': 210}",beat,Unmodified
+95.17503401360544,10,"{'transitiontime': 1, 'hue': 93, 'bri': 8, 'sat': 202}",beat,Unmodified
+95.604603174603184,11,"{'transitiontime': 1, 'hue': 90, 'bri': 181, 'sat': 244}",beat,Unmodified
+96.08708272859216,7,"{'transitiontime': 12, 'hue': 32401, 'bri': 229, 'sat': 255}",low,Unmodified
+97.12046444121916,7,"{'transitiontime': 4, 'hue': 27001, 'bri': 0, 'sat': 255}",high,Unmodified
+97.311269841269848,10,"{'transitiontime': 1, 'hue': 101, 'bri': 194, 'sat': 233}",beat,Unmodified
+97.7010159651669,7,"{'transitiontime': 23, 'hue': 32402, 'bri': 229, 'sat': 255}",low,Unmodified
+97.74310595065312,"[8, 10, 11, 12, 14, 15]","{'transitiontime': 67, 'hue': 10333, 'bri': 160, 'sat': 255}",arc,Safe
+99.041156462585036,14,"{'transitiontime': 1, 'hue': 101, 'bri': 192, 'sat': 228}",beat,Unmodified
+99.45911564625851,14,"{'transitiontime': 1, 'hue': 86, 'bri': 0, 'sat': 141}",beat,Unmodified
+99.67634252539914,7,"{'transitiontime': 10, 'hue': 27002, 'bri': 0, 'sat': 255}",high,Unmodified
+99.88868480725624,15,"{'transitiontime': 1, 'hue': 87, 'bri': 178, 'sat': 200}",beat,Unmodified
+100.9767779390421,12,"{'transitiontime': 18, 'hue': 32402, 'bri': 229, 'sat': 255}",low,Safe
+102.55587808417997,12,"{'transitiontime': 9, 'hue': 27003, 'bri': 0, 'sat': 255}",high,Unmodified
+103.31362811791384,8,"{'transitiontime': 1, 'hue': 96, 'bri': 188, 'sat': 238}",beat,Unmodified
+103.76052249637155,7,"{'transitiontime': 18, 'hue': 32403, 'bri': 229, 'sat': 255}",low,Unmodified
+104.16115646258504,8,"{'transitiontime': 1, 'hue': 88, 'bri': 184, 'sat': 231}",beat,Unmodified
+104.53846153846153,"[8, 10, 11, 12, 14, 15]","{'transitiontime': 39, 'hue': 13526, 'bri': 154, 'sat': 255}",arc,Safe
+106.32061224489796,15,"{'transitiontime': 1, 'hue': 89, 'bri': 4, 'sat': 176}",beat,Unmodified
+106.75018140589569,8,"{'transitiontime': 1, 'hue': 108, 'bri': 201, 'sat': 155}",beat,Unmodified
+107.30188679245283,15,"{'transitiontime': 90, 'hue': 32403, 'bri': 229, 'sat': 255}",low,Safe
+108.47605224963715,"[7, 8, 10, 11, 12, 14]","{'transitiontime': 92, 'hue': 7483, 'bri': 174, 'sat': 255}",arc,Unmodified
+110.16351473922903,7,"{'transitiontime': 1, 'hue': 89, 'bri': 183, 'sat': 199}",beat,Unmodified
+110.60469387755103,12,"{'transitiontime': 1, 'hue': 107, 'bri': 19, 'sat': 171}",beat,Unmodified
+111.03426303854876,12,"{'transitiontime': 1, 'hue': 92, 'bri': 182, 'sat': 206}",beat,Unmodified
+111.47544217687076,12,"{'transitiontime': 1, 'hue': 101, 'bri': 13, 'sat': 166}",beat,Unmodified
+112.75253968253969,12,"{'transitiontime': 1, 'hue': 98, 'bri': 192, 'sat': 189}",beat,Unmodified
+113.18210884353742,7,"{'transitiontime': 1, 'hue': 105, 'bri': 16, 'sat': 220}",beat,Unmodified
+113.61167800453515,12,"{'transitiontime': 1, 'hue': 130, 'bri': 219, 'sat': 169}",beat,Unmodified
+114.05285714285715,7,"{'transitiontime': 1, 'hue': 94, 'bri': 6, 'sat': 201}",beat,Unmodified
+114.8809869375907,15,"{'transitiontime': 6, 'hue': 27004, 'bri': 0, 'sat': 255}",high,Unmodified
+115.65166908563135,8,"{'transitiontime': 38, 'hue': 32404, 'bri': 229, 'sat': 255}",low,Unmodified
+116.20070294784581,12,"{'transitiontime': 1, 'hue': 95, 'bri': 187, 'sat': 201}",beat,Unmodified
+116.61866213151927,7,"{'transitiontime': 1, 'hue': 107, 'bri': 14, 'sat': 245}",beat,Unmodified
+117.04823129251702,7,"{'transitiontime': 1, 'hue': 92, 'bri': 184, 'sat': 221}",beat,Unmodified
+117.71407837445574,"[7, 10, 11, 12, 14, 15]","{'transitiontime': 33, 'hue': 7993, 'bri': 174, 'sat': 255}",arc,Unmodified
+118.83018867924528,8,"{'transitiontime': 29, 'hue': 27004, 'bri': 0, 'sat': 255}",high,Unmodified
+119.18446712018141,8,"{'transitiontime': 1, 'hue': 95, 'bri': 2, 'sat': 139}",beat,Unmodified
+119.61403628117914,8,"{'transitiontime': 1, 'hue': 93, 'bri': 184, 'sat': 224}",beat,Unmodified
+120.04360544217687,14,"{'transitiontime': 1, 'hue': 92, 'bri': 0, 'sat': 253}",beat,Unmodified
+120.46156462585034,15,"{'transitiontime': 1, 'hue': 110, 'bri': 201, 'sat': 192}",beat,Unmodified
+120.9143537414966,8,"{'transitiontime': 1, 'hue': 93, 'bri': 4, 'sat': 255}",beat,Unmodified
+121.06240928882438,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 39, 'hue': 6649, 'bri': 180, 'sat': 255}",arc,Safe
+122.46153846153847,14,"{'transitiontime': 45, 'hue': 32406, 'bri': 229, 'sat': 255}",low,Unmodified
+123.050589569161,7,"{'transitiontime': 1, 'hue': 92, 'bri': 181, 'sat': 141}",beat,Unmodified
+123.89811791383221,12,"{'transitiontime': 1, 'hue': 108, 'bri': 198, 'sat': 223}",beat,Unmodified
+124.7456462585034,7,"{'transitiontime': 1, 'hue': 85, 'bri': 177, 'sat': 230}",beat,Unmodified
+125.06095791001451,"[7, 8, 10, 11, 12, 15]","{'transitiontime': 42, 'hue': 8878, 'bri': 177, 'sat': 255}",arc,Unmodified
+126.0343537414966,8,"{'transitiontime': 1, 'hue': 86, 'bri': 0, 'sat': 138}",beat,Unmodified
+126.21480406386067,14,"{'transitiontime': 31, 'hue': 27005, 'bri': 0, 'sat': 255}",high,Unmodified
+126.4755328798186,7,"{'transitiontime': 1, 'hue': 88, 'bri': 177, 'sat': 247}",beat,Unmodified
+126.90510204081633,12,"{'transitiontime': 1, 'hue': 99, 'bri': 11, 'sat': 193}",beat,Unmodified
+127.32306122448981,12,"{'transitiontime': 1, 'hue': 100, 'bri': 192, 'sat': 214}",beat,Unmodified
+129.33817126269957,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 37, 'hue': 7792, 'bri': 182, 'sat': 255}",arc,Safe
+130.77122448979591,12,"{'transitiontime': 1, 'hue': 89, 'bri': 179, 'sat': 148}",beat,Unmodified
+131.6187528344671,7,"{'transitiontime': 1, 'hue': 87, 'bri': 177, 'sat': 201}",beat,Unmodified
+133.12772133526852,"[7, 8, 11, 12, 14, 15]","{'transitiontime': 36, 'hue': 9045, 'bri': 180, 'sat': 255}",arc,Safe
+134.17294784580497,12,"{'transitiontime': 1, 'hue': 110, 'bri': 203, 'sat': 207}",beat,Unmodified
+135.03208616780043,12,"{'transitiontime': 1, 'hue': 92, 'bri': 186, 'sat': 171}",beat,Unmodified
+135.46165532879817,8,"{'transitiontime': 1, 'hue': 95, 'bri': 7, 'sat': 174}",beat,Unmodified
+136.32079365079363,7,"{'transitiontime': 1, 'hue': 98, 'bri': 11, 'sat': 187}",beat,Unmodified
+136.75036281179138,8,"{'transitiontime': 1, 'hue': 91, 'bri': 185, 'sat': 222}",beat,Unmodified
+136.78809869375908,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 83, 'hue': 3546, 'bri': 199, 'sat': 255}",arc,Safe
+137.2989840348331,11,"{'transitiontime': 37, 'hue': 32407, 'bri': 229, 'sat': 255}",low,Safe
+138.05068027210882,7,"{'transitiontime': 1, 'hue': 90, 'bri': 0, 'sat': 245}",beat,Unmodified
+140.40928882438317,11,"{'transitiontime': 34, 'hue': 27007, 'bri': 0, 'sat': 255}",high,Unmodified
+141.03444444444443,15,"{'transitiontime': 1, 'hue': 89, 'bri': 182, 'sat': 158}",beat,Unmodified
+141.89358276643989,7,"{'transitiontime': 1, 'hue': 93, 'bri': 185, 'sat': 165}",beat,Unmodified
+142.76433106575962,15,"{'transitiontime': 1, 'hue': 116, 'bri': 206, 'sat': 136}",beat,Unmodified
+143.19390022675736,7,"{'transitiontime': 1, 'hue': 91, 'bri': 0, 'sat': 153}",beat,Unmodified
+143.63507936507935,15,"{'transitiontime': 1, 'hue': 96, 'bri': 188, 'sat': 247}",beat,Unmodified
+144.75181422351233,10,"{'transitiontime': 27, 'hue': 32408, 'bri': 229, 'sat': 255}",low,Safe
+145.1901306240929,"[7, 8, 11, 12, 14, 15]","{'transitiontime': 60, 'hue': 14540, 'bri': 175, 'sat': 255}",arc,Safe
+147.06240928882437,10,"{'transitiontime': 37, 'hue': 27007, 'bri': 0, 'sat': 255}",high,Unmodified
+147.47798185941042,8,"{'transitiontime': 1, 'hue': 118, 'bri': 33, 'sat': 242}",beat,Unmodified
+147.89594104308389,14,"{'transitiontime': 1, 'hue': 141, 'bri': 237, 'sat': 166}",beat,Unmodified
+148.75507936507935,10,"{'transitiontime': 1, 'hue': 120, 'bri': 216, 'sat': 187}",beat,Unmodified
+149.19625850340134,14,"{'transitiontime': 1, 'hue': 86, 'bri': 0, 'sat': 185}",beat,Unmodified
+150.03217687074829,10,"{'transitiontime': 1, 'hue': 98, 'bri': 16, 'sat': 248}",beat,Unmodified
+150.46174603174603,10,"{'transitiontime': 1, 'hue': 86, 'bri': 179, 'sat': 139}",beat,Unmodified
+151.24528301886792,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 59, 'hue': 9037, 'bri': 192, 'sat': 255}",arc,Safe
+151.74600870827285,10,"{'transitiontime': 23, 'hue': 32409, 'bri': 229, 'sat': 255}",low,Safe
+152.62120181405894,7,"{'transitiontime': 1, 'hue': 94, 'bri': 8, 'sat': 144}",beat,Unmodified
+153.46873015873015,15,"{'transitiontime': 1, 'hue': 91, 'bri': 5, 'sat': 180}",beat,Unmodified
+153.69521044992743,10,"{'transitiontime': 16, 'hue': 27008, 'bri': 0, 'sat': 255}",high,Unmodified
+153.89829931972787,7,"{'transitiontime': 1, 'hue': 89, 'bri': 183, 'sat': 179}",beat,Unmodified
+154.32786848072561,7,"{'transitiontime': 1, 'hue': 85, 'bri': 0, 'sat': 213}",beat,Unmodified
+154.74582766439909,8,"{'transitiontime': 1, 'hue': 99, 'bri': 190, 'sat': 136}",beat,Unmodified
+155.80696661828736,14,"{'transitiontime': 27, 'hue': 32410, 'bri': 229, 'sat': 255}",low,Safe
+156.88206349206348,7,"{'transitiontime': 1, 'hue': 90, 'bri': 0, 'sat': 174}",beat,Unmodified
+157.2409288824383,"[7, 8, 10, 11, 12, 15]","{'transitiontime': 14, 'hue': 9099, 'bri': 192, 'sat': 255}",arc,Safe
+158.17077097505668,8,"{'transitiontime': 1, 'hue': 87, 'bri': 177, 'sat': 182}",beat,Safe
+158.61248185776486,14,"{'transitiontime': 31, 'hue': 32410, 'bri': 229, 'sat': 255}",low,Unmodified
+158.75326560232222,"[7, 8, 10, 11, 12, 15]","{'transitiontime': 7, 'hue': 9083, 'bri': 193, 'sat': 255}",arc,Safe
+159.53701015965166,"[7, 8, 10, 11, 12, 15]","{'transitiontime': 46, 'hue': 10771, 'bri': 191, 'sat': 255}",arc,Unmodified
+160.75979591836733,12,"{'transitiontime': 1, 'hue': 109, 'bri': 200, 'sat': 199}",beat,Unmodified
+161.17775510204081,7,"{'transitiontime': 1, 'hue': 91, 'bri': 1, 'sat': 175}",beat,Safe
+161.59571428571428,12,"{'transitiontime': 1, 'hue': 115, 'bri': 208, 'sat': 234}",beat,Unmodified
+162.025283446712,8,"{'transitiontime': 1, 'hue': 88, 'bri': 0, 'sat': 176}",beat,Unmodified
+162.70972423802613,14,"{'transitiontime': 68, 'hue': 32412, 'bri': 229, 'sat': 255}",low,Unmodified
+163.32560090702947,7,"{'transitiontime': 1, 'hue': 120, 'bri': 210, 'sat': 255}",beat,Unmodified
+163.75517006802721,12,"{'transitiontime': 1, 'hue': 83, 'bri': 1, 'sat': 159}",beat,Unmodified
+164.18473922902493,8,"{'transitiontime': 1, 'hue': 82, 'bri': 179, 'sat': 148}",beat,Unmodified
+164.22931785195937,"[7, 8, 10, 11, 12, 15]","{'transitiontime': 5, 'hue': 10763, 'bri': 192, 'sat': 255}",arc,Safe
+164.84470246734398,"[7, 8, 10, 11, 12, 15]","{'transitiontime': 27, 'hue': 11234, 'bri': 192, 'sat': 255}",arc,Safe
+166.33258503401359,8,"{'transitiontime': 1, 'hue': 92, 'bri': 6, 'sat': 133}",beat,Unmodified
+167.20333333333332,8,"{'transitiontime': 1, 'hue': 87, 'bri': 0, 'sat': 155}",beat,Unmodified
+167.60522496371553,"[7, 8, 10, 11, 12, 15]","{'transitiontime': 51, 'hue': 8747, 'bri': 201, 'sat': 255}",arc,Safe
+168.48043083900225,8,"{'transitiontime': 1, 'hue': 113, 'bri': 205, 'sat': 138}",beat,Safe
+169.32795918367347,8,"{'transitiontime': 1, 'hue': 97, 'bri': 186, 'sat': 163}",beat,Unmodified
+169.75752834467119,14,"{'transitiontime': 1, 'hue': 92, 'bri': 1, 'sat': 217}",beat,Unmodified
+170.18709750566893,15,"{'transitiontime': 1, 'hue': 110, 'bri': 199, 'sat': 225}",beat,Unmodified
+171.1509433962264,14,"{'transitiontime': 47, 'hue': 32413, 'bri': 229, 'sat': 255}",low,Safe
+171.47580498866213,8,"{'transitiontime': 1, 'hue': 86, 'bri': 0, 'sat': 193}",beat,Unmodified
+171.89376417233558,7,"{'transitiontime': 1, 'hue': 116, 'bri': 206, 'sat': 169}",beat,Unmodified
+172.75290249433107,15,"{'transitiontime': 1, 'hue': 94, 'bri': 187, 'sat': 135}",beat,Unmodified
+172.77358490566039,"[7, 8, 10, 11, 12, 15]","{'transitiontime': 34, 'hue': 9585, 'bri': 201, 'sat': 255}",arc,Unmodified
+173.60043083900226,8,"{'transitiontime': 1, 'hue': 96, 'bri': 186, 'sat': 243}",beat,Unmodified
+175.06966618287373,14,"{'transitiontime': 27, 'hue': 27012, 'bri': 0, 'sat': 255}",high,Unmodified
+175.34192743764171,8,"{'transitiontime': 1, 'hue': 99, 'bri': 192, 'sat': 152}",beat,Unmodified
+176.20106575963717,7,"{'transitiontime': 1, 'hue': 100, 'bri': 190, 'sat': 230}",beat,Unmodified
+176.27140783744557,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 36, 'hue': 8532, 'bri': 205, 'sat': 255}",arc,Safe
+177.90773242630385,8,"{'transitiontime': 1, 'hue': 94, 'bri': 185, 'sat': 179}",beat,Unmodified
+178.54281567489116,14,"{'transitiontime': 52, 'hue': 32414, 'bri': 229, 'sat': 255}",low,Safe
+179.89695210449926,"[7, 8, 10, 11, 12, 15]","{'transitiontime': 33, 'hue': 9635, 'bri': 204, 'sat': 255}",arc,Unmodified
+181.77385487528343,8,"{'transitiontime': 1, 'hue': 91, 'bri': 3, 'sat': 208}",beat,Unmodified
+182.19181405895691,15,"{'transitiontime': 1, 'hue': 116, 'bri': 205, 'sat': 141}",beat,Unmodified
+182.91146589259796,14,"{'transitiontime': 44, 'hue': 27013, 'bri': 0, 'sat': 255}",high,Unmodified
+183.06256235827664,7,"{'transitiontime': 1, 'hue': 96, 'bri': 188, 'sat': 217}",beat,Unmodified
+183.21044992743106,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 41, 'hue': 7347, 'bri': 212, 'sat': 255}",arc,Unmodified
+184.76922902494329,7,"{'transitiontime': 1, 'hue': 82, 'bri': 177, 'sat': 198}",beat,Unmodified
+186.04632653061222,7,"{'transitiontime': 1, 'hue': 94, 'bri': 7, 'sat': 162}",beat,Unmodified
+187.36865021770683,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 26, 'hue': 8306, 'bri': 211, 'sat': 255}",arc,Safe
+188.4165457184325,10,"{'transitiontime': 36, 'hue': 32415, 'bri': 229, 'sat': 255}",low,Safe
+189.03009070294783,12,"{'transitiontime': 1, 'hue': 111, 'bri': 200, 'sat': 176}",beat,Unmodified
+189.47126984126982,12,"{'transitiontime': 1, 'hue': 84, 'bri': 0, 'sat': 248}",beat,Unmodified
+190.07692307692307,"[7, 8, 11, 12, 14, 15]","{'transitiontime': 60, 'hue': 0, 'bri': 236, 'sat': 255}",arc,Safe
+191.46879535558782,10,"{'transitiontime': 24, 'hue': 27014, 'bri': 0, 'sat': 255}",high,Unmodified
+191.61911564625848,8,"{'transitiontime': 1, 'hue': 88, 'bri': 179, 'sat': 191}",beat,Unmodified
+192.4666439909297,14,"{'transitiontime': 1, 'hue': 112, 'bri': 208, 'sat': 148}",beat,Unmodified
+193.3490022675737,14,"{'transitiontime': 1, 'hue': 162, 'bri': 251, 'sat': 222}",beat,Unmodified
+193.77857142857141,14,"{'transitiontime': 1, 'hue': 143, 'bri': 48, 'sat': 224}",beat,Unmodified
+194.21975056689342,14,"{'transitiontime': 1, 'hue': 102, 'bri': 194, 'sat': 147}",beat,Unmodified
+194.59361393323658,11,"{'transitiontime': 19, 'hue': 32416, 'bri': 229, 'sat': 255}",low,Safe
+195.06727891156461,15,"{'transitiontime': 1, 'hue': 100, 'bri': 189, 'sat': 201}",beat,Unmodified
+195.49684807256236,8,"{'transitiontime': 1, 'hue': 90, 'bri': 0, 'sat': 139}",beat,Unmodified
+195.9148072562358,8,"{'transitiontime': 1, 'hue': 125, 'bri': 216, 'sat': 143}",beat,Unmodified
+196.1233671988389,"[7, 8, 10, 12, 14, 15]","{'transitiontime': 76, 'hue': 16543, 'bri': 198, 'sat': 255}",arc,Safe
+196.35598639455782,7,"{'transitiontime': 1, 'hue': 105, 'bri': 15, 'sat': 199}",beat,Unmodified
+196.77394557823129,12,"{'transitiontime': 1, 'hue': 128, 'bri': 215, 'sat': 150}",beat,Unmodified
+197.20351473922901,7,"{'transitiontime': 1, 'hue': 126, 'bri': 35, 'sat': 217}",beat,Unmodified
+197.63308390022675,8,"{'transitiontime': 1, 'hue': 126, 'bri': 214, 'sat': 141}",beat,Unmodified
+198.03943310657596,8,"{'transitiontime': 1, 'hue': 104, 'bri': 12, 'sat': 134}",beat,Unmodified
+198.45739229024943,15,"{'transitiontime': 1, 'hue': 91, 'bri': 181, 'sat': 169}",beat,Unmodified
+198.81567489114659,12,"{'transitiontime': 15, 'hue': 32418, 'bri': 229, 'sat': 255}",low,Safe
+199.32814058956916,15,"{'transitiontime': 1, 'hue': 140, 'bri': 229, 'sat': 193}",beat,Unmodified
+200.19888888888889,14,"{'transitiontime': 1, 'hue': 91, 'bri': 178, 'sat': 198}",beat,Safe
+202.6821480406386,7,"{'transitiontime': 40, 'hue': 32419, 'bri': 229, 'sat': 255}",low,Safe
+203.62383219954648,15,"{'transitiontime': 1, 'hue': 91, 'bri': 178, 'sat': 240}",beat,Unmodified
+203.7489114658926,"[8, 10, 11, 12, 14, 15]","{'transitiontime': 64, 'hue': 12111, 'bri': 213, 'sat': 255}",arc,Unmodified
+204.92414965986393,8,"{'transitiontime': 1, 'hue': 86, 'bri': 0, 'sat': 166}",beat,Unmodified
+206.09869375907112,7,"{'transitiontime': 14, 'hue': 27017, 'bri': 0, 'sat': 255}",high,Unmodified
+207.8809869375907,15,"{'transitiontime': 20, 'hue': 32420, 'bri': 229, 'sat': 255}",low,Unmodified
+208.75544217687073,7,"{'transitiontime': 1, 'hue': 86, 'bri': 177, 'sat': 169}",beat,Unmodified
+209.61458049886619,8,"{'transitiontime': 1, 'hue': 88, 'bri': 180, 'sat': 139}",beat,Safe
+210.20609579100145,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 41, 'hue': 14316, 'bri': 210, 'sat': 255}",arc,Safe
+212.20360544217687,15,"{'transitiontime': 1, 'hue': 111, 'bri': 205, 'sat': 238}",beat,Unmodified
+212.7910014513788,14,"{'transitiontime': 16, 'hue': 32421, 'bri': 229, 'sat': 255}",low,Safe
+213.89866213151927,8,"{'transitiontime': 1, 'hue': 103, 'bri': 199, 'sat': 200}",beat,Unmodified
+214.20609579100145,14,"{'transitiontime': 21, 'hue': 27019, 'bri': 0, 'sat': 255}",high,Unmodified
+214.35145124716553,15,"{'transitiontime': 1, 'hue': 93, 'bri': 6, 'sat': 162}",beat,Unmodified
+214.4034833091437,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 21, 'hue': 13756, 'bri': 213, 'sat': 255}",arc,Unmodified
+215.21058956916099,14,"{'transitiontime': 1, 'hue': 105, 'bri': 14, 'sat': 226}",beat,Unmodified
+215.62854875283446,15,"{'transitiontime': 1, 'hue': 104, 'bri': 198, 'sat': 254}",beat,Unmodified
+216.05811791383218,14,"{'transitiontime': 1, 'hue': 114, 'bri': 24, 'sat': 236}",beat,Unmodified
+216.48768707482992,10,"{'transitiontime': 1, 'hue': 148, 'bri': 245, 'sat': 142}",beat,Unmodified
+216.5399129172714,"[7, 8, 10, 11, 12, 14, 15]","{'transitiontime': 107, 'hue': 50800, 'bri': 124, 'sat': 255}",arc,Safe
+216.90420899854863,10,"{'transitiontime': 6, 'hue': 32424, 'bri': 229, 'sat': 255}",low,Safe
+218.61231292517004,14,"{'transitiontime': 1, 'hue': 100, 'bri': 12, 'sat': 134}",beat,Unmodified
+219.06510204081633,10,"{'transitiontime': 1, 'hue': 158, 'bri': 250, 'sat': 233}",beat,Unmodified
