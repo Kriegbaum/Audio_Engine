@@ -4,6 +4,10 @@ import librosa
 from scipy.ndimage import gaussian_filter1d
 from tqdm import tqdm
 
+# In IPython session, add the following two lines
+# %matplotlib
+# plt.ion()
+
 class AudioDescriptor:
         """
         Contains original raw audio data from a track
@@ -14,7 +18,6 @@ class AudioDescriptor:
                 self.fig, self.plot_ax = plt.subplots()
                 self.play_ax = self.fig.add_axes([0,0,1,1])
                 self.playhead = None
-                self.playdot = None
                 self.playdot = None
                 self.filepath = filepath
                 print(f'Loading up {filepath}')
