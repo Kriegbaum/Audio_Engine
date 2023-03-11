@@ -59,6 +59,6 @@ class AudioDescriptor:
                 if self.playhead is not None:
                         self.playhead.remove()
                 if self.playdot is not None:
-                        self.playdot.clear()
+                        self.playdot[0].remove()
                 self.playhead = plt.axvline(position, color='gray')
                 self.playdot = plt.plot(position, self.arc_plot[position], marker='o', color='k')
