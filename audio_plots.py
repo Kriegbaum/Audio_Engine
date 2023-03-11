@@ -11,6 +11,11 @@ class AudioDescriptor:
         """
         
         def __init__(self, filepath):
+                self.fig, self.plot_ax = plt.subplots()
+                self.play_ax = self.fig.add_axes([0,0,1,1])
+                self.playhead = None
+                self.playdot = None
+                self.playdot = None
                 self.filepath = filepath
                 print(f'Loading up {filepath}')
                 self.raw_track, self.sample_rate = librosa.load(self.filepath)
@@ -47,4 +52,10 @@ class AudioDescriptor:
                 plt.plot(plot)
                 plt.show()
 
-
+        def draw_playhead(self, position):
+                if self.playhead is not None:
+                        self.playhead.remove()
+                if self.playdot is not None:
+                        self.playdot.clear()
+                self.playhead = plt.axvline(position, color='gray')
+                self.playdot = plt.plot(position, self.arc_plot[position], marker='o', color='k')
